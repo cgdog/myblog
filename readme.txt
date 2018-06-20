@@ -1,3 +1,1 @@
-this is a readme txt from lei xin yue.
-Git has a mutable index called stage.
-Git tracks changes.
+This is my personal blog source code. You can read it at [http://leixinyue.github.io](http://leixinyue.github.io) .
